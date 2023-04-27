@@ -108,4 +108,7 @@ https://superheroapi.com/
 - Dwovanna - Marvel
 - Matheus Reis - Futbol
 - Thiago - Naruto
+- Julia - Spotify
+- Evellyn - Anime API
+- Lohannes - Pokemon
 - 
