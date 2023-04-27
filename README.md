@@ -83,4 +83,14 @@ https://superheroapi.com/
 - Felipe - unplash
 - Matheus Siqueira - rawG.io Games
 - Bianca - https://superheroapi.com/
+- Prevelate - Marvel
+- Kaue - NASA
+- Genivania - Rick and Morty
+- Gabriel Henrique - https://superheroapi.com/
+- Eduardo - https://jikan.docs.apiary.io/
+- Andressa - https://www.omdbapi.com/
+- Guilherme Lima - https://superheroapi.com/
+- Lucas - https://api-futebol.com.br/documentacao/time
+- Layla - simpsons
+- Ingryd - thedogAPI
 
