@@ -71,7 +71,7 @@ https://superheroapi.com/
 ## Entrega
 
 - Crie uma pasta com seu nome dentro da pasta projetos e faça um pull request
-- Data: 04/04/23
+- Data: 04/05/23
 - Horário: 11:30
 
 
