@@ -73,3 +73,7 @@ https://superheroapi.com/
 - Crie uma pasta com seu nome dentro da pasta projetos e faça um pull request
 - Data: 04/04/23
 - Horário: 11:30
+
+
+## Projetos
+- Cleiton - [pokeAPI](https://pokeapi.co/)
