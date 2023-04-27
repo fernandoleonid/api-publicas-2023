@@ -80,6 +80,6 @@ Exemplo de README:
 
 ## Entrega
 
-- Link do figma e github na pasta apoio
+- Crie uma pasta com seu nome dentro da pasta projetos e faça um pull request
 - Data: 04/04/23
 - Horário: 11:30
