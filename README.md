@@ -77,3 +77,10 @@ https://superheroapi.com/
 
 ## Projetos
 - Cleiton - [pokeAPI](https://pokeapi.co/)
+- Gabriel Domingues - Anime
+- Monica - https://superheroapi.com/
+- Italo -  Clima
+- Felipe - unplash
+- Matheus Siqueira - rawG.io Games
+- Bianca - https://superheroapi.com/
+
