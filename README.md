@@ -108,7 +108,7 @@ https://superheroapi.com/
 - Dwovanna - Marvel
 - Matheus Reis - Futbol
 - Thiago - Naruto
-- Julia - Spotify
+- Julia - https://superheroapi.com/
 - Evellyn - Anime API
 - Lohannes - Pokemon
 - Caua - Simpsons
@@ -121,3 +121,5 @@ https://superheroapi.com/
 - Daniela - https://thronesapi.com/
 - Marcelo - League of legends
 - Millena - https://hp-api.onrender.com/api/characters
+- Claudio - Filmes
+- 
