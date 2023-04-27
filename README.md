@@ -99,4 +99,5 @@ https://superheroapi.com/
 
 ### DS2T
 - Bianca Leão - http://www.omdbapi.com/
+- Nicole - rick and Morty
 - 
