@@ -23,31 +23,31 @@ sistema.
 
 ## Sugestão de APIs publicas
 
-[[https://swapi.co/](https://swapi.co/)](https://www.notion.so/https-swapi-co-60623a363f8144c59171c919e5c2a94a)
+https://swapi.co/
 
-[[https://developer.marvel.com/](https://developer.marvel.com/)](https://www.notion.so/https-developer-marvel-com-831a3f5f089f450b81c20d3c1c459c13)
+https://developer.marvel.com/
 
-[[https://pokeapi.co/](https://pokeapi.co/)](https://www.notion.so/https-pokeapi-co-21b0cf3babc44eb09c10bc6d9a7a421c)
+https://pokeapi.co/
 
-[[http://www.omdbapi.com/](http://www.omdbapi.com/)](https://www.notion.so/http-www-omdbapi-com-31ea396108d647b4aca597b3a1f9192c)
+http://www.omdbapi.com/
 
-[[https://rawg.io/apidocs](https://rawg.io/apidocs)](https://www.notion.so/https-rawg-io-apidocs-7a23f348e3e04248bd966e98b0ed41ff)
+https://rawg.io/apidocs
 
-[[https://developer.github.com/v3/](https://developer.github.com/v3/)](https://www.notion.so/https-developer-github-com-v3-82b2b6ed47bb4ed09589729139e9dcf4)
+https://developer.github.com/v3/
 
-[[https://developers.themoviedb.org/3](https://developers.themoviedb.org/3)](https://www.notion.so/https-developers-themoviedb-org-3-6999800ba7624bea9629a82ae81928d4)
+https://developers.themoviedb.org/3
 
-[[https://api.vagalume.com.br/](https://api.vagalume.com.br/)](https://www.notion.so/https-api-vagalume-com-br-89e79cdb6964496bb261bbc3af7f9bde)
+https://api.vagalume.com.br/
 
-[[https://lyricsovh.docs.apiary.io/](https://lyricsovh.docs.apiary.io/)](https://www.notion.so/https-lyricsovh-docs-apiary-io-1ec5a6317eee477db1e1d32b4e283e7d)
+https://lyricsovh.docs.apiary.io/
 
-[[https://jikan.docs.apiary.io/](https://jikan.docs.apiary.io/)](https://www.notion.so/https-jikan-docs-apiary-io-279ae00519974f74a86a201e341a8008)
+https://jikan.docs.apiary.io/
 
-[[https://pixabay.com/api/docs/](https://pixabay.com/api/docs/)](https://www.notion.so/https-pixabay-com-api-docs-a6cebfdbb2e742a59f5fa6477d65226b)
+https://pixabay.com/api/docs/
 
-[[https://www.tvmaze.com/api](https://www.tvmaze.com/api)](https://www.notion.so/https-www-tvmaze-com-api-ca7a6249d55843f7bc48604bf735a02f)
+https://www.tvmaze.com/api
 
-[[https://superheroapi.com/](https://superheroapi.com/)](https://www.notion.so/https-superheroapi-com-59d39b29612647808138e6425699ad37)
+https://superheroapi.com/
 
 <aside>
 💡 Poderá ser utilizada outra API desde que seja aprovada.
