@@ -100,4 +100,12 @@ https://superheroapi.com/
 ### DS2T
 - Bianca Leão - http://www.omdbapi.com/
 - Nicole - rick and Morty
+- Anderson - Rick and Morty
+- Muryllo - Valorant
+- Oswaldo - disney
+- João - Digimon
+- Artur - Pokemon
+- Dwovanna - Marvel
+- Matheus Reis - Futbol
+- Thiago - Naruto
 - 
