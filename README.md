@@ -101,7 +101,7 @@ https://superheroapi.com/
 - Bianca Leão - http://www.omdbapi.com/
 - Nicole - rick and Morty
 - Anderson - Rick and Morty
-- Muryllo - Valorant
+- Muryllo - ValorantAPI 
 - Oswaldo - disney
 - João - Digimon
 - Artur - Pokemon
@@ -112,4 +112,7 @@ https://superheroapi.com/
 - Evellyn - Anime API
 - Lohannes - Pokemon
 - Caua - Simpsons
+- Andre - https://lyricsovh.docs.apiary.io/
+- Luiz - https://developer.riotgames.com/apis#val-content-v1/GET_getContent
+- Mateus Alves - https://gadhagod.github.io/Hyrule-Compendium-API/
 - 
