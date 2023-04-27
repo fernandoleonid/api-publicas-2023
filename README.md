@@ -111,4 +111,5 @@ https://superheroapi.com/
 - Julia - Spotify
 - Evellyn - Anime API
 - Lohannes - Pokemon
+- Caua - Simpsons
 - 
