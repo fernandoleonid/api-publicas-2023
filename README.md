@@ -117,4 +117,7 @@ https://superheroapi.com/
 - Mateus Alves - https://gadhagod.github.io/Hyrule-Compendium-API/
 - Vinicius Monteiro - Clash Royale
 - Felipe - pixabay
-- 
+- Yasmin - Clima
+- Daniela - https://thronesapi.com/
+- Marcelo - League of legends
+- Millena - https://hp-api.onrender.com/api/characters
