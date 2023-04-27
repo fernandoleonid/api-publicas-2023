@@ -115,4 +115,6 @@ https://superheroapi.com/
 - Andre - https://lyricsovh.docs.apiary.io/
 - Luiz - https://developer.riotgames.com/apis#val-content-v1/GET_getContent
 - Mateus Alves - https://gadhagod.github.io/Hyrule-Compendium-API/
+- Vinicius Monteiro - Clash Royale
+- Felipe - pixabay
 - 
