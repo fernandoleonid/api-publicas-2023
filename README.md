@@ -68,16 +68,6 @@ https://superheroapi.com/
 - [ ]  O projeto está publicado?
 - [ ]  Foi criado o arquivo README.md?
 
-<aside>
-💡 Guia para criar o README:
-[https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509#estrutura-do-readme](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509#estrutura-do-readme)
-LINGUAGEM MARKDOWN:
-[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-Exemplo de README:
-[https://github.com/fernandoleonid/figma-to-website/tree/main/02-coca-cola#readme](https://github.com/fernandoleonid/figma-to-website/tree/main/02-coca-cola#readme)
-
-</aside>
-
 ## Entrega
 
 - Crie uma pasta com seu nome dentro da pasta projetos e faça um pull request
