@@ -76,6 +76,7 @@ https://superheroapi.com/
 
 
 ## Projetos
+### DS2M
 - Cleiton - [pokeAPI](https://pokeapi.co/)
 - Gabriel Domingues - Anime
 - Monica - https://superheroapi.com/
@@ -96,3 +97,6 @@ https://superheroapi.com/
 - Leticia - Museu
 - 
 
+### DS2T
+- Bianca Leão - http://www.omdbapi.com/
+- 
