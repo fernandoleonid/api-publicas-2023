@@ -7,7 +7,7 @@ Você trabalha na empresa NetSolutions, uma empresa que atua com projetos na ár
 desenvolvimento de software. Você ficou responsável pelo consumo da API que fará parte do
 sistema.
 
-<details>
+<details open>
 <summary><h2>A API deverá devolver:</h2></summary>
 
 - Algum tipo de card, contendo título e imagem ou vídeo.
