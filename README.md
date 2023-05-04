@@ -6,55 +6,49 @@ Você trabalha na empresa NetSolutions, uma empresa que atua com projetos na ár
 desenvolvimento de software. Você ficou responsável pelo consumo da API que fará parte do
 sistema.
 
-## A API deverá devolver:
+<details>
+<summary><h2>A API deverá devolver:</h2></summary>
 
 - Algum tipo de card, contendo título e imagem ou vídeo.
 - Deverá ter no mínimo 3 paginas.
 - Layout não especificado pelo cliente, você deverá criar, com auxílio do Figma, para aprovação.
 - O uso web componentes e rotas é obrigatório
 
-## Você ficou responsável por:
+</details>
+
+<details>
+<summary><h2>Você ficou responsável por:</h2></summary>
 
 1. Estudar a documentação da API.
 2. Consumir a API.
 3. Criar os componentes
 4. Criar as páginas
 5. Criar as rotas
+</details>
 
-## Sugestão de APIs publicas
+<details>
+<summary><h2>Sugestão de APIs publicas</h2></summary>
 
-https://swapi.co/
+- https://swapi.co/
+- https://developer.marvel.com/
+- https://pokeapi.co/
+- http://www.omdbapi.com/
+- https://rawg.io/apidocs
+- https://developer.github.com/v3/
+- https://developers.themoviedb.org/3
+- https://api.vagalume.com.br/
+- https://lyricsovh.docs.apiary.io/
+- https://jikan.docs.apiary.io/
+- https://pixabay.com/api/docs/
+- https://www.tvmaze.com/api
+- https://superheroapi.com/
 
-https://developer.marvel.com/
+> 💡 Poderá ser utilizada outra API desde que seja aprovada.
 
-https://pokeapi.co/
+</details>
 
-http://www.omdbapi.com/
-
-https://rawg.io/apidocs
-
-https://developer.github.com/v3/
-
-https://developers.themoviedb.org/3
-
-https://api.vagalume.com.br/
-
-https://lyricsovh.docs.apiary.io/
-
-https://jikan.docs.apiary.io/
-
-https://pixabay.com/api/docs/
-
-https://www.tvmaze.com/api
-
-https://superheroapi.com/
-
-<aside>
-💡 Poderá ser utilizada outra API desde que seja aprovada.
-
-</aside>
-
-## Critérios de avaliação
+<details>
+<summary><h2>Critérios de avaliação</h2></summary>
 
 - [ ]  Documentou problemas, se encontrado, para futuras consultas?
 - [ ]  Foi criado o layout no figma?
@@ -68,12 +62,16 @@ https://superheroapi.com/
 - [ ]  O projeto está publicado?
 - [ ]  Foi criado o arquivo README.md?
 
-## Entrega
+</details>
+
+<details>
+<summary><h2>Entrega</h2></summary>
 
 - Crie uma pasta com seu nome dentro da pasta projetos e faça um pull request
 - Data: 04/05/23
 - Horário: 11:30
 
+</details>
 
 ## Projetos
 <details>
