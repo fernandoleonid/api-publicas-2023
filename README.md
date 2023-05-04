@@ -76,50 +76,20 @@ https://superheroapi.com/
 
 
 ## Projetos
-### DS2M
-- Cleiton - [pokeAPI](https://pokeapi.co/)
-- Gabriel Domingues - Anime
-- Monica - https://superheroapi.com/
-- Italo -  Clima
-- Felipe - unplash
-- Matheus Siqueira - rawG.io Games
-- Bianca - https://superheroapi.com/
-- Prevelate - Marvel
-- Kaue - NASA
-- Genivania - Rick and Morty
-- Gabriel Henrique - https://superheroapi.com/
-- Eduardo - https://jikan.docs.apiary.io/
-- Andressa - https://www.omdbapi.com/
-- Guilherme Lima - https://superheroapi.com/
-- Lucas - https://api-futebol.com.br/documentacao/time
-- Layla - simpsons
-- Ingryd - thedogAPI
-- Leticia - Museu
-- 
+<details>
+<summary>DS2M</summary>
 
-### DS2T
-- Bianca Leão - http://www.omdbapi.com/
-- Nicole - rick and Morty
-- Anderson - Rick and Morty
-- Muryllo - ValorantAPI 
-- Oswaldo - disney
-- João - Digimon
-- Artur - Pokemon
-- Dwovanna - Marvel
-- Matheus Reis - Futbol
-- Thiago - Naruto
-- Julia - https://superheroapi.com/
-- Evellyn - Anime API
-- Lohannes - Pokemon
-- Caua - Simpsons
-- Andre - https://lyricsovh.docs.apiary.io/
-- Luiz - https://developer.riotgames.com/apis#val-content-v1/GET_getContent
-- Mateus Alves - https://gadhagod.github.io/Hyrule-Compendium-API/
-- Vinicius Monteiro - Clash Royale
-- Felipe - pixabay
-- Yasmin - Clima
-- Daniela - https://thronesapi.com/
-- Marcelo - League of legends
-- Millena - https://hp-api.onrender.com/api/characters
-- Claudio - Filmes
-- Caroline - Overwhatch
+  | Nome | API | Projeto |
+  |---|---|---|
+  |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
+
+</details>
+
+<details>
+<summary>DS2T</summary>
+
+  | Nome | API | Projeto |
+  |---|---|---|
+  |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
+
+</details>
