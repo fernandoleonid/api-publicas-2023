@@ -1,4 +1,5 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c017d03b-3d34-4343-b4bc-396c9143b208/Untitled.png)
+
+![netsolutions](https://user-images.githubusercontent.com/42476943/236190098-91455210-eb6c-4efc-bd19-3dcb7618adc3.png)
 
 ## Situação de Aprendizagem
 
