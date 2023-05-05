@@ -92,5 +92,6 @@ sistema.
   |---|---|---|
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Bianca Leao](https://github.com/fernandoleonid) | [OMDBAPI](http://www.omdbapi.com/) | [Bibisflix](https://github.com/leaobia/netflix) |
+  |[Thiago Freitas](https://github.com/Thiago1223) | [NARUTOAPI](https://www.narutodb.xyz/) | [Naruto](https://github.com/Thiago1223/naruto-api) |
 
 </details>
