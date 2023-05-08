@@ -94,5 +94,6 @@ sistema.
   |---|---|---|
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Bianca Leao](https://github.com/fernandoleonid) | [OMDBAPI](http://www.omdbapi.com/) | [Bibisflix](https://github.com/leaobia/netflix) |
+  |[Matheus Reis](https://github.com/matheusalves099) | [BALLDONTLIE](https://app.balldontlie.io/) | [NBA Info](https://github.com/MatheusAlves099/nba_info_api) |
 
 </details>
