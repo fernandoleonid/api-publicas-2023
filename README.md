@@ -99,5 +99,6 @@ sistema.
   |[Mateus Alves da Silva](https://github.com/fernandoleonid) | [EldenRingAPI](https://docs.eldenring.fanapis.com/docs/) | [EldenRing](https://github.com/MateusAlves595/Elden-Ring) |
   |[Artur Alves](https://github.com/ArturAlvess) | [PokeAPI](https://pokeapi.co/) | [PokeInfo](https://github.com/ArturAlvess/pokeinfo-webcomponent) |
   |[Millena Ferreira](https://github.com/MillenaFerreira) | [HarryPotterAPI](https://hp-api.onrender.com/) | [Hogwarts](https://the-world-of-harry-potter.vercel.app/) |
+  |[Muryllo Vieira](https://github.com/muryllovieira) | [ValorantAPI](https://dash.valorant-api.com/) | [Valorant](https://valorant-api-senai.netlify.app/) |
 
 </details>
