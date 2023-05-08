@@ -94,5 +94,6 @@ sistema.
   |---|---|---|
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Bianca Leao](https://github.com/fernandoleonid) | [OMDBAPI](http://www.omdbapi.com/) | [Bibisflix](https://github.com/leaobia/netflix) |
+  |[Artur Alves](https://github.com/ArturAlvess) | [OMDBAPI](https://pokeapi.co/) | [PokeInfo](https://github.com/ArturAlvess/pokeinfo-webcomponent) |
 
 </details>
