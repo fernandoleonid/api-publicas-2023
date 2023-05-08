@@ -95,5 +95,7 @@ sistema.
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Bianca Leao](https://github.com/fernandoleonid) | [OMDBAPI](http://www.omdbapi.com/) | [Bibisflix](https://github.com/leaobia/netflix) |
   |[Mateus Alves da Silva](https://github.com/fernandoleonid) | [EldenRingAPI](https://docs.eldenring.fanapis.com/docs/) | [EldenRing](https://github.com/MateusAlves595/Elden-Ring) |
+  |[Artur Alves](https://github.com/ArturAlvess) | [PokeAPI](https://pokeapi.co/) | [PokeInfo](https://github.com/ArturAlvess/pokeinfo-webcomponent) |
+  |[Millena Ferreira](https://github.com/MillenaFerreira) | [HarryPotterAPI](https://hp-api.onrender.com/) | [Hogwarts](https://the-world-of-harry-potter.vercel.app/) |
 
 </details>
