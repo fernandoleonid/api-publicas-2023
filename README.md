@@ -83,7 +83,8 @@ sistema.
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Felipe Florencio](https://github.com/FelipeFlorencio9) | [Pixabay](https://pixabay.com/api/docs/) | [Pixabay API Consumer](https://github.com/FelipeFlorencio9/pixabay-api#readme) |
   |[Gustavo Henrique](https://github.com/GustavoHenriqueProjects) | [TheSpaceDevs](https://ll.thespacedevs.com/docs/) | [TheSpaceDevs API Consumer](https://github.com/GustavoHenriqueProjects/The-Space-FrontEnd)|
-  [Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme) |
+  [Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme)|
+  |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
 
 </details>
 
