@@ -1,3 +1,6 @@
+
+![netsolutions](https://user-images.githubusercontent.com/42476943/236190098-91455210-eb6c-4efc-bd19-3dcb7618adc3.png)
+
 ## Situação de Aprendizagem
 
 Você trabalha na empresa NetSolutions, uma empresa que atua com projetos na área de
@@ -75,7 +78,6 @@ sistema.
 <summary>DS2M</summary>
 
   | Nome | API | Projeto |
-  |---|---|---|
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Felipe Florencio](https://github.com/FelipeFlorencio9) | [Pixabay](https://pixabay.com/api/docs/) | [Pixabay API Consumer](https://github.com/FelipeFlorencio9/pixabay-api#readme) |
   |[Gustavo Henrique](https://github.com/GustavoHenriqueProjects) | [TheSpaceDevs](https://ll.thespacedevs.com/docs/) | [TheSpaceDevs API Consumer](https://github.com/GustavoHenriqueProjects/The-Space-FrontEnd)|
@@ -105,5 +107,5 @@ sistema.
   |[Alexssandro Gomes](https://github.com/AlexssandroSilvaGomes) | [DnDAPI](https://www.dnd5eapi.co/) | [Dungeons&Dragons](https://dungeonanddragons.netlify.app/) |
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
   |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
-
+  |[André Luiz](https://github.com/andreluisconstantino) | [Dog API](https://dog.ceo/dog-api/) | [Random Dogs](https://random-dogs-rho.vercel.app) |
 </details>
