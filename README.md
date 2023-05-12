@@ -1,3 +1,4 @@
+
 ![netsolutions](https://user-images.githubusercontent.com/42476943/236190098-91455210-eb6c-4efc-bd19-3dcb7618adc3.png)
 
 ## Situação de Aprendizagem
