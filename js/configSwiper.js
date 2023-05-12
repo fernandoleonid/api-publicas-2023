@@ -1,0 +1,16 @@
+export const attributeSwiper = (swiper) => {
+    swiper.setAttribute('class', 'mySwiper')
+    swiper.setAttribute('pagination', 'true')
+    swiper.setAttribute('effect', 'coverflow')
+    swiper.setAttribute('centered-slides', 'true')
+    swiper.setAttribute('slides-per-view', 'auto')
+    swiper.setAttribute('coverflow-effect-rotate', '50')
+    swiper.setAttribute('coverflow-effect-stretch', '0')
+    swiper.setAttribute('coverflow-effect-depth', '100')
+    swiper.setAttribute('coverflow-effect-modifier', '1')
+    swiper.setAttribute('coverflow-effect-slide-shadows', 'false')
+    swiper.setAttribute('autoplay', 'true')
+    swiper.setAttribute('autoplay-delay', '1500')
+    swiper.setAttribute('autoplay-disable-on-interaction', 'false')
+    swiper.setAttribute('pagination-clickable', 'true')
+};
