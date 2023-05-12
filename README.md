@@ -79,12 +79,13 @@ sistema.
 <summary>DS2M</summary>
 
   | Nome | API | Projeto |
-  |---|---|---|
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Felipe Florencio](https://github.com/FelipeFlorencio9) | [Pixabay](https://pixabay.com/api/docs/) | [Pixabay API Consumer](https://github.com/FelipeFlorencio9/pixabay-api#readme) |
   |[Gustavo Henrique](https://github.com/GustavoHenriqueProjects) | [TheSpaceDevs](https://ll.thespacedevs.com/docs/) | [TheSpaceDevs API Consumer](https://github.com/GustavoHenriqueProjects/The-Space-FrontEnd)|
   [Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme) |
-  |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All)
+  |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
+  |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
+  |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
 
 </details>
 
@@ -102,5 +103,10 @@ sistema.
   |[Millena Ferreira](https://github.com/MillenaFerreira) | [HarryPotterAPI](https://hp-api.onrender.com/) | [Hogwarts](https://the-world-of-harry-potter.vercel.app/) |
   |[Muryllo Vieira](https://github.com/muryllovieira) | [ValorantAPI](https://dash.valorant-api.com/) | [Valorant](https://valorant-api-senai.netlify.app/) |
   |[Caroline Portela](https://github.com/carolineportela) | [OverwatchAPI](https://overfast-api.tekrop.fr/#tag/Heroes/operation/list_heroes_heroes_get) | [Overwatch](https://overwatch-pink.vercel.app) |
+  |[Claudio Sousa](https://github.com/ClaudioSousa44) | [TheMovieDataBase](https://developers.themoviedb.org/3/getting-started/introduction) | [PopCornRoom](https://github.com/ClaudioSousa44/PopCornRoom) |
+  |[Luiz Gustavo](https://github.com/luyz-gusta) | [ValorantAPI](https://dash.valorant-api.com/) | [Valorant Web](https://valorant-web-ten.vercel.app) |
+  |[Alexssandro Gomes](https://github.com/AlexssandroSilvaGomes) | [DnDAPI](https://www.dnd5eapi.co/) | [Dungeons&Dragons](https://dungeonanddragons.netlify.app/) |
+  |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
+  |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
 
 </details>
