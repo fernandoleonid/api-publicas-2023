@@ -79,11 +79,11 @@ sistema.
 <summary>DS2M</summary>
 
   | Nome | API | Projeto |
-  |---|---|---|
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Felipe Florencio](https://github.com/FelipeFlorencio9) | [Pixabay](https://pixabay.com/api/docs/) | [Pixabay API Consumer](https://github.com/FelipeFlorencio9/pixabay-api#readme) |
   |[Gustavo Henrique](https://github.com/GustavoHenriqueProjects) | [TheSpaceDevs](https://ll.thespacedevs.com/docs/) | [TheSpaceDevs API Consumer](https://github.com/GustavoHenriqueProjects/The-Space-FrontEnd)|
   [Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme) |
+  |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
   |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
   |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
 
