@@ -84,6 +84,7 @@ sistema.
   |[Felipe Florencio](https://github.com/FelipeFlorencio9) | [Pixabay](https://pixabay.com/api/docs/) | [Pixabay API Consumer](https://github.com/FelipeFlorencio9/pixabay-api#readme) |
   |[Gustavo Henrique](https://github.com/GustavoHenriqueProjects) | [TheSpaceDevs](https://ll.thespacedevs.com/docs/) | [TheSpaceDevs API Consumer](https://github.com/GustavoHenriqueProjects/The-Space-FrontEnd)|
   [Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme) |
+  |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
 
 </details>
 
@@ -102,5 +103,6 @@ sistema.
   |[Muryllo Vieira](https://github.com/muryllovieira) | [ValorantAPI](https://dash.valorant-api.com/) | [Valorant](https://valorant-api-senai.netlify.app/) |
   |[Caroline Portela](https://github.com/carolineportela) | [OverwatchAPI](https://overfast-api.tekrop.fr/#tag/Heroes/operation/list_heroes_heroes_get) | [Overwatch](https://overwatch-pink.vercel.app) |
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
+  |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
 
 </details>
