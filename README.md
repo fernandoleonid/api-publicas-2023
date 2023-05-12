@@ -101,5 +101,6 @@ sistema.
   |[Millena Ferreira](https://github.com/MillenaFerreira) | [HarryPotterAPI](https://hp-api.onrender.com/) | [Hogwarts](https://the-world-of-harry-potter.vercel.app/) |
   |[Muryllo Vieira](https://github.com/muryllovieira) | [ValorantAPI](https://dash.valorant-api.com/) | [Valorant](https://valorant-api-senai.netlify.app/) |
   |[Caroline Portela](https://github.com/carolineportela) | [OverwatchAPI](https://overfast-api.tekrop.fr/#tag/Heroes/operation/list_heroes_heroes_get) | [Overwatch](https://overwatch-pink.vercel.app) |
+    |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
 
 </details>
