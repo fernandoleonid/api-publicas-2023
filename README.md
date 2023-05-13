@@ -79,8 +79,9 @@ sistema.
 <summary>DS2M</summary>
 
   | Nome | API | Projeto |
-  |---|---|---|
+ 
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
+   |[Bianca]|API RICKY MORTY| [RICKY AND MORTY](https://github.com/biiaduartez/Ricky-and-morty.git)|
 
 </details>
 
