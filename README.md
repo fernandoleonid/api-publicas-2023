@@ -100,6 +100,7 @@ sistema.
   |[Guilherme Lima](https://github.com/GuiLima005) | [SuperHeroApi](https://www.superheroapi.com/) | [SuperHero](https://github.com/GuiLima005/super-hero) |
   |[Letícia Evelin](https://github.com/leticia-evelin) | [Cooper Hewitt](https://collection.cooperhewitt.org/api/) | [The Museum](https://github.com/leticia-evelin/api-museum#readme) |
   |[Paula Blesa](https://github.com/StaniukaitisPaula) | [PokéAPI](https://pokeapi.co/) | [Pokemon](https://github.com/StaniukaitisPaula/Pokemon) |
+  [Ingryd Shirlley](https://github.com/ingryd16) | [TheDogAPI](https://www.thedogapi.com/) | [Dog](https://github.com/ingryd16/API_thedogapi) |
 
 </details>
 
