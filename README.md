@@ -51,16 +51,16 @@ sistema.
 <summary><h2>Critérios de avaliação</h2></summary>
 
 - [ ]  Documentou problemas, se encontrado, para futuras consultas?
-- [ ]  Foi criado o layout no figma?
-- [ ]  A página foi construída seguindo o planejado no Figma?
+- [x]  Foi criado o layout no figma?
+- [x]  A página foi construída seguindo o planejado no Figma?
 - [ ]  A página funciona em dispositivos diferentes?
-- [ ]  Foi consumida a API escolhida?
+- [x]  Foi consumida a API escolhida?
 - [ ]  Foi criado web componentes?
-- [ ]  Foi criado um padrão de roteamente para as paginas?
-- [ ]  As funções foram criadas seguindo à boa prática de responsabilidade única?
-- [ ]  Quando possível, foi criado funções puras?
-- [ ]  O projeto está publicado?
-- [ ]  Foi criado o arquivo README.md?
+- [x]  Foi criado um padrão de roteamente para as paginas?
+- [x]  As funções foram criadas seguindo à boa prática de responsabilidade única?
+- [x]  Quando possível, foi criado funções puras?
+- [x]  O projeto está publicado?
+- [x]  Foi criado o arquivo README.md?
 
 </details>
 
@@ -86,6 +86,7 @@ sistema.
   |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
   |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
   |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
+  |[Layla Giovanna](https://github.com/LaylaGiovanna) | [RickAndMorty](https://rickandmortyapi.com/) | [Rick and Morty](https://github.com/LaylaGiovanna/Rick-and-Morty) |
 
 </details>
 
