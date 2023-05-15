@@ -86,6 +86,7 @@ sistema.
   |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
   |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
   |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
+  |[Letícia Evelin](https://github.com/leticia-evelin) | [Cooper Hewitt](https://collection.cooperhewitt.org/api/) | [The Museum](https://github.com/leticia-evelin/api-museum#readme) |
 
 </details>
 
@@ -110,4 +111,6 @@ sistema.
   |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
   |[André Luiz](https://github.com/andreluisconstantino) | [Dog API](https://dog.ceo/dog-api/) | [Random Dogs](https://random-dogs-rho.vercel.app) |
   |[Felipe Graciano Bertanha dos Santos](https://github.com/felipegracian) | [PixaBay API](https://pixabay.com/api/docs/) | [Pixabay](https://felipegracian.github.io/atividade-router-plus-api/) |
+  |[Oswaldo Barbosa](https://github.com/OswaldBarbosa) | [SuperHero](https://superheroapi.com/) | [Marvel&DC](https://github.com/OswaldBarbosa/marvel-dc) |
+
 </details>
