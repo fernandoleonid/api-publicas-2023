@@ -89,6 +89,7 @@ sistema.
   |[Murillo Barbosa](https://github.com/murillobarbosa) | [SuperHeroAPI](https://superheroapi.com) | [SuperHero](https://super-hero-ten.vercel.app/) 
   |[Vinicius Nunes](https://github.com/viniciusnunes137) | [SWAPI](https://swapi.dev/api/?format=json) | [STAR WARS](https://github.com/VINICIUSNUNES137/siteStarWars) |
   |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
+  |[Ítalo Reis Rosa](https://github.com/believeItalo) | [OpenWeather](https://openweathermap.org/api) | [Open Weather](https://github.com/believeItalo/consumo_Api_OpenWeather) |
   |[Layla Giovanna](https://github.com/LaylaGiovanna) | [RickAndMorty](https://rickandmortyapi.com/) | [Rick and Morty](https://github.com/LaylaGiovanna/Rick-and-Morty) |
   |[Matheus Siqueira](https://github.com/Ma7hs) | [RAWG](https://api.rawg.io/docs/) | [RawGStore](https://rawgstore-siqueira.vercel.app/) |
   |[Guilherme Lima](https://github.com/GuiLima005) | [SuperHeroApi](https://www.superheroapi.com/) | [SuperHero](https://github.com/GuiLima005/super-hero) |
