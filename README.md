@@ -86,7 +86,7 @@ sistema.
   |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
   |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
   |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
-  |[Ítalo Reis Rosa](https://github.com/believeItalo) | [OpenWeather](https://openweathermap.org/api) | [Cadastro](https://github.com/believeItalo/consumo_Api_OpenWeather) |
+  |[Ítalo Reis Rosa](https://github.com/believeItalo) | [OpenWeather](https://openweathermap.org/api) | [Open Weather](https://github.com/believeItalo/consumo_Api_OpenWeather) |
 </details>
 
 <details>
