@@ -80,7 +80,7 @@ sistema.
 
   | Nome | API | Projeto |
   |---|---|---|
-  |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
+  |[Fernando Leonid](https://github.com/StaniukaitisPaula) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.staniukaitispaula.github.io/Pokemon/) |
 
 </details>
 
@@ -89,6 +89,6 @@ sistema.
 
   | Nome | API | Projeto |
   |---|---|---|
-  |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
+  |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://pokeapi.co/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
 
 </details>
