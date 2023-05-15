@@ -91,7 +91,7 @@ sistema.
   |[Vinicius Nunes](https://github.com/viniciusnunes137) | [SWAPI](https://swapi.dev/api/?format=json) | [STAR WARS](https://github.com/VINICIUSNUNES137/siteStarWars) |
   |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
   |[Lucas Vinicius](https://github.com/lucasvinip) | [sampleapis](https://sampleapis.com/api-list/avatar) | [Avatar-Aang](https://github.com/lucasvinip/siteAvatar-Aang) |
-  |[Bianca Duarte] (https://rickandmortyapi.com/) | [The Rick and Mort API] (https://rickandmortyapi.com/) |  [ricky and morty](https://github.com/biiaduartez/API-project.git) |
+  |[Bianca Duarte](https://rickandmortyapi.com/) | [The Rick and Mort API](https://rickandmortyapi.com/) |  [ricky and morty](https://github.com/biiaduartez/API-project.git) |
   |[Clara Martins](https://github.com/oliveiraclara) | [OMDBAPI](http://www.omdbapi.com/) | [Search a movie!](https://github.com/oliveiraclara/api-movies) |
   |[Guilherme Rufino Campos](https://github.com/rufinoguilherme633/site-consumo-api-m) | [MakeUpi](https://makeup-api.herokuapp.com/) | [MakeUpi](https://github.com/rufinoguilherme633/site-consumo-api-maquiagem) |
   |[Ítalo Reis Rosa](https://github.com/believeItalo) | [OpenWeather](https://openweathermap.org/api) | [Open Weather](https://github.com/believeItalo/consumo_Api_OpenWeather) |
