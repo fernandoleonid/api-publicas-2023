@@ -86,13 +86,14 @@ sistema.
   |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
   |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
   |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
+  |[Matheus Siqueira](https://github.com/Ma7hs) | [RAWG](https://api.rawg.io/docs/) | [RawGStore]([
+](https://rawgstore-siqueira.vercel.app/)) |
+  
 
 </details>
 
-<details>
-<summary>DS2T</summary>
-
-  | Nome | API | Projeto |
+<RawGStores>[
+](https://rawgstore-siqueira.vercel.app/)| API | Projeto |
   |---|---|---|
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Bianca Leao](https://github.com/fernandoleonid) | [OMDBAPI](http://www.omdbapi.com/) | [Bibisflix](https://github.com/leaobia/netflix) |
