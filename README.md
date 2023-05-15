@@ -82,17 +82,21 @@ sistema.
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Felipe Florencio](https://github.com/FelipeFlorencio9) | [Pixabay](https://pixabay.com/api/docs/) | [Pixabay API Consumer](https://github.com/FelipeFlorencio9/pixabay-api#readme) |
   |[Gustavo Henrique](https://github.com/GustavoHenriqueProjects) | [TheSpaceDevs](https://ll.thespacedevs.com/docs/) | [TheSpaceDevs API Consumer](https://github.com/GustavoHenriqueProjects/The-Space-FrontEnd)|
-  [Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme) |
+  |[Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme) |
   |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
   |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
-  |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) | 
   |[Gustavo Prevelate](https://github.com/GustavoPrevelate) | [SuperHero API](https://superheroapi.com/) | [DC_MARVEL](https://github.com/GustavoPrevelate/DC_MARVEL_ATUALIZADO) |
+  |[Vinicius Nunes](https://github.com/viniciusnunes137) | [SWAPI](https://swapi.dev/api/?format=json) | [STAR WARS](https://github.com/VINICIUSNUNES137/siteStarWars) |
+  |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
+  |[Matheus Siqueira](https://github.com/Ma7hs) | [RAWG](https://api.rawg.io/docs/) | [RawGStore](https://rawgstore-siqueira.vercel.app/) |
+  |[Guilherme Lima](https://github.com/GuiLima005) | [SuperHeroApi](https://www.superheroapi.com/) | [SuperHero](https://github.com/GuiLima005/super-hero) |
+  |[Letícia Evelin](https://github.com/leticia-evelin) | [Cooper Hewitt](https://collection.cooperhewitt.org/api/) | [The Museum](https://github.com/leticia-evelin/api-museum#readme) |
 
 </details>
 
 <details>
 <summary>DS2T</summary>
-
+  
   | Nome | API | Projeto |
   |---|---|---|
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
@@ -110,4 +114,8 @@ sistema.
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
   |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
   |[André Luiz](https://github.com/andreluisconstantino) | [Dog API](https://dog.ceo/dog-api/) | [Random Dogs](https://random-dogs-rho.vercel.app) |
+  |[Nicole Souza](https://github.com/nicanico) | [The Rick and Morty API](https://rickandmortyapi.com/) | [Rick and Morty Application](https://github.com/nicanico/rick-and-morty-application) |
+  |[Felipe Graciano Bertanha dos Santos](https://github.com/felipegracian) | [PixaBay API](https://pixabay.com/api/docs/) | [Pixabay](https://felipegracian.github.io/atividade-router-plus-api/) |
+  |[Oswaldo Barbosa](https://github.com/OswaldBarbosa) | [SuperHero](https://superheroapi.com/) | [Marvel&DC](https://github.com/OswaldBarbosa/marvel-dc) |
+
 </details>
