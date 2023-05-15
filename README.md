@@ -87,15 +87,14 @@ sistema.
   |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
   |[Vinicius Nunes](https://github.com/viniciusnunes137) | [SWAPI](https://swapi.dev/api/?format=json) | [STAR WARS](https://github.com/VINICIUSNUNES137/siteStarWars) |
   |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
+  |[Matheus Siqueira](https://github.com/Ma7hs) | [RAWG](https://api.rawg.io/docs/) | [RawGStore](https://rawgstore-siqueira.vercel.app/) |
   |[Guilherme Lima](https://github.com/GuiLima005) | [SuperHeroApi](https://www.superheroapi.com/) | [SuperHero](https://github.com/GuiLima005/super-hero) |
   |[Letícia Evelin](https://github.com/leticia-evelin) | [Cooper Hewitt](https://collection.cooperhewitt.org/api/) | [The Museum](https://github.com/leticia-evelin/api-museum#readme) |
 
 </details>
 
-<details>
-<summary>DS2T</summary>
-
-  | Nome | API | Projeto |
+<RawGStores>[
+](https://rawgstore-siqueira.vercel.app/)| API | Projeto |
   |---|---|---|
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Bianca Leao](https://github.com/fernandoleonid) | [OMDBAPI](http://www.omdbapi.com/) | [Bibisflix](https://github.com/leaobia/netflix) |
