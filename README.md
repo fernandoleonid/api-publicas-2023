@@ -109,4 +109,5 @@ sistema.
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
   |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
   |[André Luiz](https://github.com/andreluisconstantino) | [Dog API](https://dog.ceo/dog-api/) | [Random Dogs](https://random-dogs-rho.vercel.app) |
+  |[Oswaldo Barbosa](https://github.com/OswaldBarbosa) | [SuperHero](https://superheroapi.com/) | [Marvel&DC](https://github.com/OswaldBarbosa/marvel-dc) |
 </details>
