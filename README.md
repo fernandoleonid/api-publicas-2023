@@ -125,8 +125,8 @@ sistema.
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
   |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
   |[André Luiz](https://github.com/andreluisconstantino) | [Dog API](https://dog.ceo/dog-api/) | [Random Dogs](https://random-dogs-rho.vercel.app) |
+  |[Felipe Graciano Bertanha dos Santos](https://github.com/felipegracian) | [PixaBay API](https://pixabay.com/api/docs/) | [Pixabay](https://felipegracianopixabay.vercel.app/) |
   |[Nicole Souza](https://github.com/nicanico) | [The Rick and Morty API](https://rickandmortyapi.com/) | [Rick and Morty Application](https://github.com/nicanico/rick-and-morty-application) |
-  |[Felipe Graciano Bertanha dos Santos](https://github.com/felipegracian) | [PixaBay API](https://pixabay.com/api/docs/) | [Pixabay](https://felipegracian.github.io/atividade-router-plus-api/) |
   |[Oswaldo Barbosa](https://github.com/OswaldBarbosa) | [SuperHero](https://superheroapi.com/) | [Marvel&DC](https://github.com/OswaldBarbosa/marvel-dc) |
   |[Lohannes da Silva Costa](https://github.com/Lohannn) | [PokéApi](https://pokeapi.co/) | [InfoMon](https://github.com/Lohannn/InfoMon-PokeAPI-Projeto) |
 
