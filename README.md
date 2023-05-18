@@ -96,6 +96,7 @@ sistema.
   |[Guilherme Lima](https://github.com/GuiLima005) | [SuperHeroApi](https://www.superheroapi.com/) | [SuperHero](https://github.com/GuiLima005/super-hero) |
   |[Letícia Evelin](https://github.com/leticia-evelin) | [Cooper Hewitt](https://collection.cooperhewitt.org/api/) | [The Museum](https://github.com/leticia-evelin/api-museum#readme) |
   |[Paula Blesa](https://github.com/StaniukaitisPaula) | [PokéAPI](https://pokeapi.co/) | [Pokemon](https://github.com/StaniukaitisPaula/Pokemon) |
+  |[ANDRESSA BEATRIZ F LANDI COELHO](https://github.com/00BeatrizLAndiCoelho00) | [omdbAPI](https://www.omdbapi.com/) | [movies](https://github.com/00BeatrizLAndiCoelho00/zzzzz) |
   [Ingryd Shirlley](https://github.com/ingryd16) | [TheDogAPI](https://www.thedogapi.com/) | [Dog](https://github.com/ingryd16/API_thedogapi) |
   [Vinícius Alves](https://github.com/Vini01072003) | [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction) | [Filme-DisneyPlus](https://github.com/Vini01072003/api-publicas-2023/) |
 
