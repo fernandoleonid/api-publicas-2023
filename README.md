@@ -101,7 +101,7 @@ sistema.
   [Ingryd Shirlley](https://github.com/ingryd16) | [TheDogAPI](https://www.thedogapi.com/) | [Dog](https://github.com/ingryd16/API_thedogapi) |
   [Vinícius Alves](https://github.com/Vini01072003) | [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction) | [Filme-DisneyPlus](https://github.com/Vini01072003/Site-API) |
   |[Vinicius Nunes](https://github.com/viniciusnunes137) | [SWAPI](https://swapi.dev/api/?format=json) | [STAR WARS](https://github.com/VINICIUSNUNES137/siteStarWars) |
-  [Murillo Barbosa](https://github.com/murillobarbosa) | [SuperHeroAPI](https://superheroapi.com) | [SuperHero](https://super-hero-ten.vercel.app/) 
+  [Murillo Barbosa](https://github.com/murillobarbosa) | [SuperHeroAPI](https://superheroapi.com) | [SuperHero](https://super-hero-ten.vercel.app/) |
   |[Gustavo Prevelate](https://github.com/GustavoPrevelate) | [SuperHero API](https://www.superheroapi.com/) | [DC_MARVEL](https://github.com/GustavoPrevelate/DC_MARVEL_ATUALIZADO) |
 
 </details>
