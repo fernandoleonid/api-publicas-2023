@@ -127,5 +127,7 @@ sistema.
   |[Nicole Souza](https://github.com/nicanico) | [The Rick and Morty API](https://rickandmortyapi.com/) | [Rick and Morty Application](https://github.com/nicanico/rick-and-morty-application) |
   |[Felipe Graciano Bertanha dos Santos](https://github.com/felipegracian) | [PixaBay API](https://pixabay.com/api/docs/) | [Pixabay](https://felipegracian.github.io/atividade-router-plus-api/) |
   |[Oswaldo Barbosa](https://github.com/OswaldBarbosa) | [SuperHero](https://superheroapi.com/) | [Marvel&DC](https://github.com/OswaldBarbosa/marvel-dc) |
+  |[Anderson Reis](https://github.com/Andersoreeis) | [Rick and Morty](https://rickandmortyapi.com/) | [Marvel&DC](https://github.com/Andersoreeis/RickAndMorty) |
+
 
 </details>
