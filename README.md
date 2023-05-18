@@ -85,7 +85,8 @@ sistema.
   [Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme) |
   |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
   |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
-  |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
+  |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) 
+  |[Genivania Macedo ](https://github.com/Genivania) | [Rick_And_Morty](https://rickandmortyapi.com/) | [Rick_And_Morty](https://rick-e-morty.netlify.app/) |
   |[Lucas Vinicius](https://github.com/lucasvinip) | [sampleapis](https://sampleapis.com/api-list/avatar) | [Avatar-Aang](https://github.com/lucasvinip/siteAvatar-Aang) |
   |[Bianca Duarte](https://rickandmortyapi.com/) | [The Rick and Mort API](https://rickandmortyapi.com/) |  [ricky and morty](https://github.com/biiaduartez/API-project.git) |
   |[Clara Martins](https://github.com/oliveiraclara) | [OMDBAPI](http://www.omdbapi.com/) | [Search a movie!](https://github.com/oliveiraclara/api-movies) |
