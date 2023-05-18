@@ -98,7 +98,7 @@ sistema.
   |[Paula Blesa](https://github.com/StaniukaitisPaula) | [PokéAPI](https://pokeapi.co/) | [Pokemon](https://github.com/StaniukaitisPaula/Pokemon) |
   |[ANDRESSA BEATRIZ F LANDI COELHO](https://github.com/00BeatrizLAndiCoelho00) | [omdbAPI](https://www.omdbapi.com/) | [movies](https://github.com/00BeatrizLAndiCoelho00/zzzzz) |
   [Ingryd Shirlley](https://github.com/ingryd16) | [TheDogAPI](https://www.thedogapi.com/) | [Dog](https://github.com/ingryd16/API_thedogapi) |
-  [Vinícius Alves](https://github.com/Vini01072003) | [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction) | [Filme-DisneyPlus](https://github.com/Vini01072003/api-publicas-2023/) |
+  [Vinícius Alves](https://github.com/Vini01072003) | [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction) | [Filme-DisneyPlus](https://github.com/Vini01072003/Site-API) |
 
 </details>
 
