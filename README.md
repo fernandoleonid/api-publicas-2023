@@ -85,8 +85,21 @@ sistema.
   [Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme) |
   |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
   |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
-  |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
+  |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) 
   |[Genivania Macedo ](https://github.com/Genivania) | [Rick_And_Morty](https://rickandmortyapi.com/) | [Rick_And_Morty](https://rick-e-morty.netlify.app/) |
+  |[Lucas Vinicius](https://github.com/lucasvinip) | [sampleapis](https://sampleapis.com/api-list/avatar) | [Avatar-Aang](https://github.com/lucasvinip/siteAvatar-Aang) |
+  |[Bianca Duarte](https://rickandmortyapi.com/) | [The Rick and Mort API](https://rickandmortyapi.com/) |  [ricky and morty](https://github.com/biiaduartez/API-project.git) |
+  |[Clara Martins](https://github.com/oliveiraclara) | [OMDBAPI](http://www.omdbapi.com/) | [Search a movie!](https://github.com/oliveiraclara/api-movies) |
+  |[Guilherme Rufino Campos](https://github.com/rufinoguilherme633/site-consumo-api-m) | [MakeUpi](https://makeup-api.herokuapp.com/) | [MakeUpi](https://github.com/rufinoguilherme633/site-consumo-api-maquiagem) |
+  |[Ítalo Reis Rosa](https://github.com/believeItalo) | [OpenWeather](https://openweathermap.org/api) | [Open Weather](https://github.com/believeItalo/consumo_Api_OpenWeather) |
+  |[Layla Giovanna](https://github.com/LaylaGiovanna) | [RickAndMorty](https://rickandmortyapi.com/) | [Rick and Morty](https://github.com/LaylaGiovanna/Rick-and-Morty) |
+  |[Matheus Siqueira](https://github.com/Ma7hs) | [RAWG](https://api.rawg.io/docs/) | [RawGStore](https://rawgstore-siqueira.vercel.app/) |
+  |[Guilherme Lima](https://github.com/GuiLima005) | [SuperHeroApi](https://www.superheroapi.com/) | [SuperHero](https://github.com/GuiLima005/super-hero) |
+  |[Letícia Evelin](https://github.com/leticia-evelin) | [Cooper Hewitt](https://collection.cooperhewitt.org/api/) | [The Museum](https://github.com/leticia-evelin/api-museum#readme) |
+  |[Paula Blesa](https://github.com/StaniukaitisPaula) | [PokéAPI](https://pokeapi.co/) | [Pokemon](https://github.com/StaniukaitisPaula/Pokemon) |
+  |[ANDRESSA BEATRIZ F LANDI COELHO](https://github.com/00BeatrizLAndiCoelho00) | [omdbAPI](https://www.omdbapi.com/) | [movies](https://github.com/00BeatrizLAndiCoelho00/zzzzz) |
+  [Ingryd Shirlley](https://github.com/ingryd16) | [TheDogAPI](https://www.thedogapi.com/) | [Dog](https://github.com/ingryd16/API_thedogapi) |
+  [Vinícius Alves](https://github.com/Vini01072003) | [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction) | [Filme-DisneyPlus](https://github.com/Vini01072003/Site-API) |
 
 </details>
 
@@ -110,4 +123,12 @@ sistema.
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
   |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
   |[André Luiz](https://github.com/andreluisconstantino) | [Dog API](https://dog.ceo/dog-api/) | [Random Dogs](https://random-dogs-rho.vercel.app) |
+  |[Cauã Felipe](https://github.com/Caua0402) | [Simpsons API](https://sampleapis.com/api-list/simpsons) | [Simpsons](https://trabalho-simpsons.vercel.app)
+  |[Felipe Graciano Bertanha dos Santos](https://github.com/felipegracian) | [PixaBay API](https://pixabay.com/api/docs/) | [Pixabay](https://felipegracianopixabay.vercel.app/) |
+  |[Nicole Souza](https://github.com/nicanico) | [The Rick and Morty API](https://rickandmortyapi.com/) | [Rick and Morty Application](https://github.com/nicanico/rick-and-morty-application) |
+  |[Oswaldo Barbosa](https://github.com/OswaldBarbosa) | [SuperHero](https://superheroapi.com/) | [Marvel&DC](https://github.com/OswaldBarbosa/marvel-dc) |
+  |[Victoria Gindre]([https://github.com/OswaldBarbosa](https://github.com/vickr-g)) | [ApiDog]([https://superheroapi.com/](https://dog.ceo/dog-api/)) | [APiDog](https://github.com) |
+  |[João Victor da Silva](https://github.com/Ratinho253) | [Digimon](https://digimon-api.vercel.app/) | [Digimon-api](https://github.com/Ratinho253/digimon-ApI) |
+  |[Lohannes da Silva Costa](https://github.com/Lohannn) | [PokéApi](https://pokeapi.co/) | [InfoMon](https://github.com/Lohannn/InfoMon-PokeAPI-Projeto) |
+
 </details>
