@@ -101,6 +101,7 @@ sistema.
   [Ingryd Shirlley](https://github.com/ingryd16) | [TheDogAPI](https://www.thedogapi.com/) | [Dog](https://github.com/ingryd16/API_thedogapi) |
   [Vinícius Alves](https://github.com/Vini01072003) | [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction) | [Filme-DisneyPlus](https://github.com/Vini01072003/Site-API) |
   |[Vinicius Nunes](https://github.com/viniciusnunes137) | [SWAPI](https://swapi.dev/api/?format=json) | [STAR WARS](https://github.com/VINICIUSNUNES137/siteStarWars) |
+  [Murillo Barbosa](https://github.com/murillobarbosa) | [SuperHeroAPI](https://superheroapi.com) | [SuperHero](https://super-hero-ten.vercel.app/) 
 
 </details>
 
@@ -128,6 +129,7 @@ sistema.
   |[Felipe Graciano Bertanha dos Santos](https://github.com/felipegracian) | [PixaBay API](https://pixabay.com/api/docs/) | [Pixabay](https://felipegracianopixabay.vercel.app/) |
   |[Nicole Souza](https://github.com/nicanico) | [The Rick and Morty API](https://rickandmortyapi.com/) | [Rick and Morty Application](https://github.com/nicanico/rick-and-morty-application) |
   |[Oswaldo Barbosa](https://github.com/OswaldBarbosa) | [SuperHero](https://superheroapi.com/) | [Marvel&DC](https://github.com/OswaldBarbosa/marvel-dc) |
+  |[Anderson Reis](https://github.com/Andersoreeis) | [Rick and Morty](https://rickandmortyapi.com/) | [Marvel&DC](https://github.com/Andersoreeis/RickAndMorty) |
   |[Victoria Gindre]([https://github.com/OswaldBarbosa](https://github.com/vickr-g)) | [ApiDog]([https://superheroapi.com/](https://dog.ceo/dog-api/)) | [APiDog](https://github.com) |
   |[João Victor da Silva](https://github.com/Ratinho253) | [Digimon](https://digimon-api.vercel.app/) | [Digimon-api](https://github.com/Ratinho253/digimon-ApI) |
   |[Lohannes da Silva Costa](https://github.com/Lohannn) | [PokéApi](https://pokeapi.co/) | [InfoMon](https://github.com/Lohannn/InfoMon-PokeAPI-Projeto) |
