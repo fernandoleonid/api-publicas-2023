@@ -112,29 +112,29 @@ sistema.
 
   | Nome | API | Projeto |
   |---|---|---|
-  |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
-  |[Bianca Leao](https://github.com/fernandoleonid) | [OMDBAPI](http://www.omdbapi.com/) | [Bibisflix](https://github.com/leaobia/netflix) |
-  |[Thiago Freitas](https://github.com/Thiago1223) | [NARUTOAPI](https://www.narutodb.xyz/) | [Naruto](https://github.com/Thiago1223/naruto-api) |
-  |[Matheus Reis](https://github.com/matheusalves099) | [BALLDONTLIE](https://app.balldontlie.io/) | [NBA Info](https://github.com/MatheusAlves099/nba_info_api) |
-  |[Mateus Alves da Silva](https://github.com/fernandoleonid) | [EldenRingAPI](https://docs.eldenring.fanapis.com/docs/) | [EldenRing](https://github.com/MateusAlves595/Elden-Ring) |
+  |[Alexssandro Gomes](https://github.com/AlexssandroSilvaGomes) | [DnDAPI](https://www.dnd5eapi.co/) | [Dungeons&Dragons](https://dungeonanddragons.netlify.app/) |
+  |[Anderson Reis](https://github.com/Andersoreeis) | [The Rick and Morty API](https://rickandmortyapi.com/) | [Rick and Morty](https://github.com/Andersoreeis/RickAndMorty) |
+  |[André Luiz](https://github.com/andreluisconstantino) | [Dog API](https://dog.ceo/dog-api/) | [Random Dogs](https://random-dogs-rho.vercel.app) |
   |[Artur Alves](https://github.com/ArturAlvess) | [PokeAPI](https://pokeapi.co/) | [PokeInfo](https://github.com/ArturAlvess/pokeinfo-webcomponent) |
+  |[Bianca Leao](https://github.com/fernandoleonid) | [OMDBAPI](http://www.omdbapi.com/) | [Bibisflix](https://github.com/leaobia/netflix) |
+  |[Caroline Portela](https://github.com/carolineportela) | [OverwatchAPI](https://overfast-api.tekrop.fr/#tag/Heroes/operation/list_heroes_heroes_get) | [Overwatch](https://overwatch-pink.vercel.app) |
+  |[Cauã Felipe](https://github.com/Caua0402) | [Simpsons API](https://sampleapis.com/api-list/simpsons) | [Simpsons](https://trabalho-simpsons.vercel.app) |
+  |[Claudio Sousa](https://github.com/ClaudioSousa44) | [TheMovieDataBase](https://developers.themoviedb.org/3/getting-started/introduction) | [PopCornRoom](https://github.com/ClaudioSousa44/PopCornRoom) |
+  |[Dwovanna Santos](https://github.com/dwovanna/Site-API) | [Marvel Filmes](https://developer.marvel.com/) | [Marvel Filmes](https://github.com/dwovanna/Site-API) |
+  |[Felipe Graciano Bertanha dos Santos](https://github.com/felipegracian) | [PixaBay API](https://pixabay.com/api/docs/) | [Pixabay](https://felipegracianopixabay.vercel.app/) |
+  |[João Victor da Silva](https://github.com/Ratinho253) | [Digimon](https://digimon-api.vercel.app/) | [Digimon-api](https://github.com/Ratinho253/digimon-ApI) |
+  |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
+  |[Lohannes da Silva Costa](https://github.com/Lohannn) | [PokéApi](https://pokeapi.co/) | [InfoMon](https://github.com/Lohannn/InfoMon-PokeAPI-Projeto) |
+  |[Luiz Gustavo](https://github.com/luyz-gusta) | [ValorantAPI](https://dash.valorant-api.com/) | [Valorant Web](https://valorant-web-ten.vercel.app) |
+  |[Mateus Alves da Silva](https://github.com/fernandoleonid) | [EldenRingAPI](https://docs.eldenring.fanapis.com/docs/) | [EldenRing](https://github.com/MateusAlves595/Elden-Ring) |
+  |[Matheus Reis](https://github.com/matheusalves099) | [BALLDONTLIE](https://app.balldontlie.io/) | [NBA Info](https://github.com/MatheusAlves099/nba_info_api) |
   |[Millena Ferreira](https://github.com/MillenaFerreira) | [HarryPotterAPI](https://hp-api.onrender.com/) | [Hogwarts](https://the-world-of-harry-potter.vercel.app/) |
   |[Muryllo Vieira](https://github.com/muryllovieira) | [ValorantAPI](https://dash.valorant-api.com/) | [Valorant](https://valorant-api-senai.netlify.app/) |
-  |[Caroline Portela](https://github.com/carolineportela) | [OverwatchAPI](https://overfast-api.tekrop.fr/#tag/Heroes/operation/list_heroes_heroes_get) | [Overwatch](https://overwatch-pink.vercel.app) |
-  |[Claudio Sousa](https://github.com/ClaudioSousa44) | [TheMovieDataBase](https://developers.themoviedb.org/3/getting-started/introduction) | [PopCornRoom](https://github.com/ClaudioSousa44/PopCornRoom) |
-  |[Luiz Gustavo](https://github.com/luyz-gusta) | [ValorantAPI](https://dash.valorant-api.com/) | [Valorant Web](https://valorant-web-ten.vercel.app) |
-  |[Alexssandro Gomes](https://github.com/AlexssandroSilvaGomes) | [DnDAPI](https://www.dnd5eapi.co/) | [Dungeons&Dragons](https://dungeonanddragons.netlify.app/) |
-  |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
-  |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
-  |[André Luiz](https://github.com/andreluisconstantino) | [Dog API](https://dog.ceo/dog-api/) | [Random Dogs](https://random-dogs-rho.vercel.app) |
-  |[Cauã Felipe](https://github.com/Caua0402) | [Simpsons API](https://sampleapis.com/api-list/simpsons) | [Simpsons](https://trabalho-simpsons.vercel.app) |
-  |[Felipe Graciano Bertanha dos Santos](https://github.com/felipegracian) | [PixaBay API](https://pixabay.com/api/docs/) | [Pixabay](https://felipegracianopixabay.vercel.app/) |
   |[Nicole Souza](https://github.com/nicanico) | [The Rick and Morty API](https://rickandmortyapi.com/) | [Rick and Morty Application](https://github.com/nicanico/rick-and-morty-application) |
   |[Oswaldo Barbosa](https://github.com/OswaldBarbosa) | [SuperHero](https://superheroapi.com/) | [Marvel&DC](https://github.com/OswaldBarbosa/marvel-dc) |
-  |[Anderson Reis](https://github.com/Andersoreeis) | [The Rick and Morty API](https://rickandmortyapi.com/) | [Rick and Morty](https://github.com/Andersoreeis/RickAndMorty) |
+  |[Thiago Freitas](https://github.com/Thiago1223) | [NARUTOAPI](https://www.narutodb.xyz/) | [Naruto](https://github.com/Thiago1223/naruto-api) |
   |[Victoria Gindre](https://github.com/vickr-g) | [ApiDog](https://dog.ceo/dog-api/) | [APiDog](https://github.com) |
-  |[João Victor da Silva](https://github.com/Ratinho253) | [Digimon](https://digimon-api.vercel.app/) | [Digimon-api](https://github.com/Ratinho253/digimon-ApI) |
-  |[Lohannes da Silva Costa](https://github.com/Lohannn) | [PokéApi](https://pokeapi.co/) | [InfoMon](https://github.com/Lohannn/InfoMon-PokeAPI-Projeto) |
-  |[Dwovanna Santos](https://github.com/dwovanna/Site-API) | [Marvel Filmes](https://developer.marvel.com/) | [Marvel Filmes](https://github.com/dwovanna/Site-API) |
+  |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
+
 
 </details>
