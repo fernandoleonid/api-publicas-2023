@@ -82,10 +82,10 @@ sistema.
   |[Fernando Leonid](https://github.com/fernandoleonid) | [ViaCEP](https://viacep.com.br/) | [Cadastro](https://github.com/fernandoleonid/consumo-api-js/tree/main/01-viacep) |
   |[Felipe Florencio](https://github.com/FelipeFlorencio9) | [Pixabay](https://pixabay.com/api/docs/) | [Pixabay API Consumer](https://github.com/FelipeFlorencio9/pixabay-api#readme) |
   |[Gustavo Henrique](https://github.com/GustavoHenriqueProjects) | [TheSpaceDevs](https://ll.thespacedevs.com/docs/) | [TheSpaceDevs API Consumer](https://github.com/GustavoHenriqueProjects/The-Space-FrontEnd)|
-  [Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme) |
+  |[Caio Palermo](https://github.com/HasegawaTaizou) | [Vagalume](https://api.vagalume.com.br/) | [Songsphere](https://github.com/HasegawaTaizou/SongSphere#readme) |
   |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
   |[Camila Pinheiro](https://github.com/camilapinh3iro) | [Systeme-Solaire](https://api.le-systeme-solaire.net/en/) | [Solar System](https://github.com/camilapinh3iro/solar_system#readme) |
-  |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) 
+  |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
   |[Genivania Macedo ](https://github.com/Genivania) | [Rick_And_Morty](https://rickandmortyapi.com/) | [Rick_And_Morty](https://rick-e-morty.netlify.app/) |
   |[Lucas Vinicius](https://github.com/lucasvinip) | [sampleapis](https://sampleapis.com/api-list/avatar) | [Avatar-Aang](https://github.com/lucasvinip/siteAvatar-Aang) |
   |[Bianca Duarte](https://rickandmortyapi.com/) | [The Rick and Mort API](https://rickandmortyapi.com/) |  [ricky and morty](https://github.com/biiaduartez/API-project.git) |
@@ -98,10 +98,11 @@ sistema.
   |[Letícia Evelin](https://github.com/leticia-evelin) | [Cooper Hewitt](https://collection.cooperhewitt.org/api/) | [The Museum](https://github.com/leticia-evelin/api-museum#readme) |
   |[Paula Blesa](https://github.com/StaniukaitisPaula) | [PokéAPI](https://pokeapi.co/) | [Pokemon](https://github.com/StaniukaitisPaula/Pokemon) |
   |[ANDRESSA BEATRIZ F LANDI COELHO](https://github.com/00BeatrizLAndiCoelho00) | [omdbAPI](https://www.omdbapi.com/) | [movies](https://github.com/00BeatrizLAndiCoelho00/zzzzz) |
-  [Ingryd Shirlley](https://github.com/ingryd16) | [TheDogAPI](https://www.thedogapi.com/) | [Dog](https://github.com/ingryd16/API_thedogapi) |
-  [Vinícius Alves](https://github.com/Vini01072003) | [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction) | [Filme-DisneyPlus](https://github.com/Vini01072003/Site-API) |
+  |[Ingryd Shirlley](https://github.com/ingryd16) | [TheDogAPI](https://www.thedogapi.com/) | [Dog](https://github.com/ingryd16/API_thedogapi) |
+  |[Vinícius Alves](https://github.com/Vini01072003) | [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction) | [Filme-DisneyPlus](https://github.com/Vini01072003/Site-API) |
   |[Vinicius Nunes](https://github.com/viniciusnunes137) | [SWAPI](https://swapi.dev/api/?format=json) | [STAR WARS](https://github.com/VINICIUSNUNES137/siteStarWars) |
-  [Murillo Barbosa](https://github.com/murillobarbosa) | [SuperHeroAPI](https://superheroapi.com) | [SuperHero](https://super-hero-ten.vercel.app/) 
+  |[Murillo Barbosa](https://github.com/murillobarbosa) | [SuperHeroAPI](https://superheroapi.com) | [SuperHero](https://super-hero-ten.vercel.app/) |
+  |[Gustavo Prevelate](https://github.com/GustavoPrevelate) | [SuperHeroAPI](https://superheroapi.com) | [DC MARVEL](https://dc-marvel-atualizado.vercel.app/) |
 
 </details>
 
@@ -125,12 +126,12 @@ sistema.
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
   |[Julia Soares](https://github.com/Xul14) | [Bob'b Burger API](https://www.bobsburgersapi.com/) | [Bob' Burger](https://bobs-burger-api.vercel.app/) |
   |[André Luiz](https://github.com/andreluisconstantino) | [Dog API](https://dog.ceo/dog-api/) | [Random Dogs](https://random-dogs-rho.vercel.app) |
-  |[Cauã Felipe](https://github.com/Caua0402) | [Simpsons API](https://sampleapis.com/api-list/simpsons) | [Simpsons](https://trabalho-simpsons.vercel.app)
+  |[Cauã Felipe](https://github.com/Caua0402) | [Simpsons API](https://sampleapis.com/api-list/simpsons) | [Simpsons](https://trabalho-simpsons.vercel.app) |
   |[Felipe Graciano Bertanha dos Santos](https://github.com/felipegracian) | [PixaBay API](https://pixabay.com/api/docs/) | [Pixabay](https://felipegracianopixabay.vercel.app/) |
   |[Nicole Souza](https://github.com/nicanico) | [The Rick and Morty API](https://rickandmortyapi.com/) | [Rick and Morty Application](https://github.com/nicanico/rick-and-morty-application) |
   |[Oswaldo Barbosa](https://github.com/OswaldBarbosa) | [SuperHero](https://superheroapi.com/) | [Marvel&DC](https://github.com/OswaldBarbosa/marvel-dc) |
   |[Anderson Reis](https://github.com/Andersoreeis) | [The Rick and Morty API](https://rickandmortyapi.com/) | [Rick and Morty](https://github.com/Andersoreeis/RickAndMorty) |
-  |[Victoria Gindre]([https://github.com/OswaldBarbosa](https://github.com/vickr-g)) | [ApiDog]([https://superheroapi.com/](https://dog.ceo/dog-api/)) | [APiDog](https://github.com) |
+  |[Victoria Gindre](https://github.com/vickr-g) | [ApiDog](https://dog.ceo/dog-api/) | [APiDog](https://github.com) |
   |[João Victor da Silva](https://github.com/Ratinho253) | [Digimon](https://digimon-api.vercel.app/) | [Digimon-api](https://github.com/Ratinho253/digimon-ApI) |
   |[Lohannes da Silva Costa](https://github.com/Lohannn) | [PokéApi](https://pokeapi.co/) | [InfoMon](https://github.com/Lohannn/InfoMon-PokeAPI-Projeto) |
   |[Dwovanna Santos](https://github.com/dwovanna/Site-API) | [Marvel Filmes](https://developer.marvel.com/) | [Marvel Filmes](https://github.com/dwovanna/Site-API) |
