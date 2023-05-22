@@ -135,7 +135,7 @@ sistema.
   |[Thiago Freitas](https://github.com/Thiago1223) | [NARUTOAPI](https://www.narutodb.xyz/) | [Naruto](https://github.com/Thiago1223/naruto-api) |
   |[Victoria Gindre](https://github.com/vickr-g) | [ApiDog](https://dog.ceo/dog-api/) | [APiDog](https://github.com) |
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
-  |[Vinícius Monteiro](https://github.com/monteiro77) | [NewYorkTimes](https://developer.nytimes.com/apis) | [NewYorkTimes](https://github.com/monteiro77) |
+  |[Vinícius Monteiro](https://github.com/monteiro77) | [NewYorkTimes](https://developer.nytimes.com/apis) | [NewYorkTimes](https://github.com/Monteiro77/New-York-Times) |
 
 
 </details>
