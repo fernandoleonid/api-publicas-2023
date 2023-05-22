@@ -135,6 +135,7 @@ sistema.
   |[Thiago Freitas](https://github.com/Thiago1223) | [NARUTOAPI](https://www.narutodb.xyz/) | [Naruto](https://github.com/Thiago1223/naruto-api) |
   |[Victoria Gindre](https://github.com/vickr-g) | [ApiDog](https://dog.ceo/dog-api/) | [APiDog](https://github.com) |
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
+  |[Marcelo Gabriel](https://github.com/marcelo-g-v-s) | [LeagueAPI](https://developer.riotgames.com/docs/lol) | [League Info](https://github.com/marcelo-g-v-s/Projeto-League-API) |
 
 
 </details>
