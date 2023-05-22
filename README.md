@@ -98,6 +98,7 @@ sistema.
   |[Letícia Evelin](https://github.com/leticia-evelin) | [Cooper Hewitt](https://collection.cooperhewitt.org/api/) | [The Museum](https://github.com/leticia-evelin/api-museum#readme) |
   |[Lucas Vinicius](https://github.com/lucasvinip) | [sampleapis](https://sampleapis.com/api-list/avatar) | [Avatar-Aang](https://github.com/lucasvinip/siteAvatar-Aang) |
   |[Matheus Siqueira](https://github.com/Ma7hs) | [RAWG](https://api.rawg.io/docs/) | [RawGStore](https://rawgstore-siqueira.vercel.app/) |
+  |[Mônica Ribeiro](https://github.com/monica-rsilva) | [SuperHeroAPI](https://superheroapi.com) | [SuperHero](https://github.com/monica-rsilva/super_hero_api) |
   |[Murillo Barbosa](https://github.com/murillobarbosa) | [SuperHeroAPI](https://superheroapi.com) | [SuperHero](https://super-hero-ten.vercel.app/) |
   |[Paula Blesa](https://github.com/StaniukaitisPaula) | [PokéAPI](https://pokeapi.co/) | [Pokemon](https://github.com/StaniukaitisPaula/Pokemon) |
   |[Vinícius Alves](https://github.com/Vini01072003) | [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction) | [Filme-DisneyPlus](https://github.com/Vini01072003/Site-API) |
