@@ -135,6 +135,6 @@ sistema.
   |[Thiago Freitas](https://github.com/Thiago1223) | [NARUTOAPI](https://www.narutodb.xyz/) | [Naruto](https://github.com/Thiago1223/naruto-api) |
   |[Victoria Gindre](https://github.com/vickr-g) | [ApiDog](https://dog.ceo/dog-api/) | [APiDog](https://github.com) |
   |[Yasmin Gonçalves](https://github.com/yasmingcv) | [OpenWeather](https://openweathermap.org/api) | [WeatherNow](https://weather-now-delta.vercel.app/) |
-
+  |[Gustavo Souza](https://github.com/GustavoSenai10) | [SWAPI](https://swapi.dev) | [Star Wars] (https://chic-cactus-d0f226.netlify.app) |
 
 </details>
