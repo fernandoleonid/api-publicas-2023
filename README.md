@@ -87,7 +87,7 @@ sistema.
   |[Cleiton Cruz](https://github.com/cotilen) | [PokeApi](https://pokeapi.co/) | [GottaCatch](https://github.com/Cotilen/Gotta_Catch-Em_All) |
   |[Eduardo Ribeiro](https://github.com/Rib3r0) | [jikan](https://docs.api.jikan.moe/) | [jojo](https://github.com/Rib3r0/jojo-api-publica) |
   |[Felipe Florencio](https://github.com/FelipeFlorencio9) | [Pixabay](https://pixabay.com/api/docs/) | [Pixabay API Consumer](https://github.com/FelipeFlorencio9/pixabay-api#readme) |
-  |[Gabriel Domingues ](https://github.com/GABRIELDOMINGUESR) | [OMDb API](http://www.omdbapi.com/) | [Filmes](https://gabrieldominguesr.github.io/API_filmes/) |
+  |[Gabriel Domingues ](https://github.com/GABRIELDOMINGUESR) | [omdbAPI](http://www.omdbapi.com/) | [Filmes](https://gabrieldominguesr.github.io/API_filmes/) |
   |[Genivania Macedo ](https://github.com/Genivania) | [Rick_And_Morty](https://rickandmortyapi.com/) | [Rick_And_Morty](https://rick-e-morty.netlify.app/) |
   |[Guilherme Lima](https://github.com/GuiLima005) | [SuperHeroApi](https://www.superheroapi.com/) | [SuperHero](https://github.com/GuiLima005/super-hero) |
   |[Guilherme Rufino Campos](https://github.com/rufinoguilherme633/site-consumo-api-m) | [MakeUpi](https://makeup-api.herokuapp.com/) | [MakeUpi](https://github.com/rufinoguilherme633/site-consumo-api-maquiagem) |
