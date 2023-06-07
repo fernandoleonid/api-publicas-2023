@@ -102,6 +102,7 @@ sistema.
   |[Paula Blesa](https://github.com/StaniukaitisPaula) | [PokéAPI](https://pokeapi.co/) | [Pokemon](https://github.com/StaniukaitisPaula/Pokemon) |
   |[Vinícius Alves](https://github.com/Vini01072003) | [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction) | [Filme-DisneyPlus](https://github.com/Vini01072003/Site-API) |
   |[Vinicius Nunes](https://github.com/viniciusnunes137) | [SWAPI](https://swapi.dev/api/?format=json) | [STAR WARS](https://github.com/VINICIUSNUNES137/siteStarWars) |
+  |[Kauê Lima](https://github.com/kaue-code30) | [NASA](https://github.com/Kaue-code30/Nasa_project) |
   
 
 
